@@ -5,6 +5,7 @@ Lib/
 Scripts/
 __pycache__/
 *.pyc
+pyvenv.cfg
 
 # Local OCR models and generated results
 .paddlex/
@@ -14,7 +15,7 @@ eskd_paddle_result/
 *.xlsx
 *.csv
 *.json
-*.txt
+*_recognized.txt
 *.pdf
 
 # Local environment files

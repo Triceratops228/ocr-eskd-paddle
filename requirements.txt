@@ -1,0 +1,8 @@
+PyMuPDF
+opencv-python
+numpy
+pandas
+openpyxl
+paddleocr
+rapidfuzz
+tqdm
