@@ -1,0 +1,23 @@
+.venv/
+venv/
+Include/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+
+# Local OCR models and generated results
+.paddlex/
+eskd_paddle_result/
+*_result/
+*.png
+*.xlsx
+*.csv
+*.json
+*.txt
+*.pdf
+
+# Local environment files
+.env
+.env.*
+!.env.example
